@@ -1,1 +1,1 @@
-# teste
+Este aquivo e auto explicativo
